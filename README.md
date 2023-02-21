@@ -1,5 +1,7 @@
 # metalsmith-html-relative
 
+**⚠️ This repistory has been moved to [metalsmith-plugins](https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-html-relative). ⚠️**
+
 [![npm Version](https://badgen.net/npm/v/metalsmith-html-relative?icon=npm)](https://www.npmjs.com/package/metalsmith-html-relative)
 [![npm Weekly Downloads](https://badgen.net/npm/dw/metalsmith-html-relative)](https://www.npmjs.com/package/metalsmith-html-relative)
 
